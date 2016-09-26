@@ -40,11 +40,13 @@ A man has to get a fox, a chicken, and a sack of corn across a river. He has a r
 You need to move 3,000 figs 1,000 nautical miles from Figopia to Capertown. Your vessel can carry 1,000 figs at a time. When you travel a nautical mile towards Capertown you must pay a tax of 1 fig, however you do not pay a tax when going the other direction (towards Figopia).
 
 What is highest number of figs you can get to Capertown?
->**883** [Answer](http://goodriddlesnow.com/riddles/view/566)
+>**883** [Answer](http://goodriddlesnow.com/riddles/view/566)  
+
 #Question Six
 
 Question: A surgeon named Hal and a bus driver named Al are both in love with the same woman named Paige. Al needs to go for a long trip of 10 days. Before he left he gave Paige 10 apples. Why?
->**An apple away keeps the doctor away**
+>**An apple away keeps the doctor away**  
+
 #Question Seven
 
 Question: A young woman is attending her mother's funeral. While there, she meets a man she has never seen before and falls in love immediately. After the funeral she tries to find him but cannot. Several days later she kills her sister.
